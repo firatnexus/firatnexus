@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=%3CSoftware+Developer+%2F%3E;crafting+neon-soaked+web+experiences;and+AI-powered+mobile+apps" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=%3CSoftware+Developer+%2F%3E;crafting+neon-soaked+web+experiences;and+Android+voice-assistant+apps" alt="typing" />
 
 # Hi, I'm Fırat Yaman 🚀
 
 **Software Developer** — I build things that glow. From offline-first PWA gaming platforms
-to Turkish-speaking Android assistants, my obsession is the same: **blazing performance,
+to Android voice-assistant apps, my obsession is the same: **blazing performance,
 pixel-perfect UX and code that reads like it was written on purpose.**
 
 ```js
@@ -45,8 +45,8 @@ const firat = {
 | Project | What it is | Built with |
 |:---|:---|:---|
 | 🕹️ **[Neon Arcade](https://github.com/firatnexus/neon-arcade)** | A cyberpunk **PWA gaming platform** with 13 hand-crafted neon arcade games — zero dependencies, fully offline, installable on any device. [▶ Play it live](https://firatnexus.github.io/neon-arcade/) | `JavaScript` `PWA` `Web Audio` |
-| 🤖 **[JarvisTR](https://github.com/firatnexus/JarvisTR)** | A Turkish-speaking **voice assistant for Android** — Iron Man edition. *"Emrinize amadeyim, efendim."* | `Kotlin` `Material 3` |
-| 🐦 **[OpenDroid](https://github.com/firatnexus/OpenDroid)** | An **open-source Android** project — early days, big plans. Watch this space. | `Android` |
+| 🤖 **[JarvisTR](https://github.com/firatnexus/JarvisTR)** | A Turkish-speaking **voice assistant for Android** — Iron Man edition. "At your service." | `Kotlin` `Material 3` |
+| 🐦 **[OpenDroid](https://github.com/firatnexus/OpenDroid)** | An **open-source project** in its early days — big plans. Watch this space. | `Open Source` |
 
 </div>
 
@@ -73,6 +73,6 @@ const firat = {
 
 [![Profile](https://img.shields.io/badge/GitHub-firatnexus-181717?style=flat-square&logo=github)](https://github.com/firatnexus)
 
-*“Ship fast, polish forever.”* ⚡
+"Ship fast, polish forever." ⚡
 
 </div>
