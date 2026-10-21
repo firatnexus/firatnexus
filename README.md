@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=%3CYaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%2F%3E;neon+dokulu+web+deneyimleri;ve+%C3%A7evrimd%C4%B1%C5%9F%C4%B1+%C3%A7al%C4%B1%C5%9Fan+PWA'lar+in%C5%9Fa+ediyor" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=%3CSoftware+Developer+%2F%3E;crafting+neon-soaked+web+experiences;and+offline-first+PWAs" alt="typing" />
 
-# Merhaba, ben Fırat Yaman 🚀
+# Hi, I'm Fırat Yaman 🚀
 
-**Yazılım Geliştirici** — parlayan şeyler inşa ediyorum. Çevrimdışı öncelikli PWA'lardan
-mobil uygulamalara kadar tek takıntım aynı: **yüksek performans, piksel piksel UX ve
-bilerek yazılmış gibi okunan kod.**
+**Software Developer** — I build things that glow. From offline-first PWAs to
+mobile apps, my one obsession stays the same: **high performance,
+pixel-perfect UX and code that reads like it was written on purpose.**
 
 ```js
 const firat = {
-    focus: ["temiz mimari", "performans ayarı", "zevkli UX"],
+    focus: ["clean architecture", "performance tuning", "delightful UX"],
     stack: ["Python", "JavaScript", "Kotlin"],
-    suAnkiProje: "Small Steps — sakin, çevrimdışı bir odak çalışma alanı",
-    motto: "Hızlı çıkar, sonsuza dek cilala. ⚡"
+    currentProject: "Small Steps — a calm, offline-first focus workspace",
+    motto: "Ship fast, polish forever. ⚡"
 };
 ```
 
@@ -21,7 +21,7 @@ const firat = {
 
 ---
 
-## ⚡ Teknoloji Yığını
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -38,17 +38,17 @@ const firat = {
 
 ---
 
-## ⭐ Öne Çıkan Proje
+## ⭐ Featured Project
 
 <div align="center">
 
 ### [Small Steps](https://github.com/firatnexus/Small-Steps-)
 
-**Sakin, çevrimdışı çalışan bir odak çalışma alanı** — görev listesi + Pomodoro zamanlayıcı + ilerleme geçmişi.
+**A calm, offline-first focus workspace** — task list + Pomodoro timer + progress history.
 
-Sıfır bağımlılık · 12 dil · Kurulum yapılabilen PWA · Verileriniz tarayıcınızdan hiç çıkmaz
+Zero dependencies · 12 languages · Installable PWA · Your data never leaves your browser
 
-[![Şimdi Dene](https://img.shields.io/badge/%C5%9Eimdi%20Dene-firatnexus.github.io-267354?style=for-the-badge)](https://firatnexus.github.io/Small-Steps-)
+[![Try It Online](https://img.shields.io/badge/Try%20It%20Online-firatnexus.github.io-267354?style=for-the-badge)](https://firatnexus.github.io/Small-Steps-/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Small--Steps--181717?style=for-the-badge&logo=github)](https://github.com/firatnexus/Small-Steps-)
 
 `JavaScript` `PWA` `Service Worker` `Vanilla JS`
@@ -57,7 +57,7 @@ Sıfır bağımlılık · 12 dil · Kurulum yapılabilen PWA · Verileriniz tara
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -74,10 +74,10 @@ Sıfır bağımlılık · 12 dil · Kurulum yapılabilen PWA · Verileriniz tara
 
 <div align="center">
 
-### 🌐 Hadi birlikte parlayan bir şey inşa edelim
+### 🌐 Let's build something that glows together
 
 [![Profile](https://img.shields.io/badge/GitHub-firatnexus-181717?style=flat-square&logo=github)](https://github.com/firatnexus)
 
-"Hızlı çıkar, sonsuza dek cilala." ⚡
+"Ship fast, polish forever." ⚡
 
 </div>
