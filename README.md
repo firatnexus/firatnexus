@@ -42,20 +42,18 @@ const firat = {
 
 <div align="center">
 
-### 🌱 [Small Steps](https://github.com/firatnexus/Small-Steps-)
+### [Small Steps](https://github.com/firatnexus/Small-Steps-)
 
 **Sakin, çevrimdışı çalışan bir odak çalışma alanı** — görev listesi + Pomodoro zamanlayıcı + ilerleme geçmişi.
 
 Sıfır bağımlılık · 12 dil · Kurulum yapılabilen PWA · Verileriniz tarayıcınızdan hiç çıkmaz
 
-[![Try It Online](https://img.shields.io/badge/%F0%9F%8C%90%20%C5%9Eimdi%20Dene-firatnexus.github.io-267354?style=for-the-badge)](https://firatnexus.github.io/Small-Steps-/)
+[![Şimdi Dene](https://img.shields.io/badge/%C5%9Eimdi%20Dene-firatnexus.github.io-267354?style=for-the-badge)](https://firatnexus.github.io/Small-Steps-)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Small--Steps--181717?style=for-the-badge&logo=github)](https://github.com/firatnexus/Small-Steps-)
 
 `JavaScript` `PWA` `Service Worker` `Vanilla JS`
 
 </div>
-
-<sub>Daha büyük projelerim (sesli asistanlar, oyun platformları, Android ajanlar) şu an özel olarak geliştirme aşamasında.</sub>
 
 ---
 
