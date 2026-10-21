@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=%3CSoftware+Developer+%2F%3E;crafting+neon-soaked+web+experiences;and+Android+voice-assistant+apps" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=700&lines=%3CYaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%2F%3E;neon+dokulu+web+deneyimleri;ve+%C3%A7evrimd%C4%B1%C5%9F%C4%B1+%C3%A7al%C4%B1%C5%9Fan+PWA'lar+in%C5%9Fa+ediyor" alt="typing" />
 
-# Hi, I'm Fırat Yaman 🚀
+# Merhaba, ben Fırat Yaman 🚀
 
-**Software Developer** — I build things that glow. From offline-first PWA gaming platforms
-to Android voice-assistant apps, my obsession is the same: **blazing performance,
-pixel-perfect UX and code that reads like it was written on purpose.**
+**Yazılım Geliştirici** — parlayan şeyler inşa ediyorum. Çevrimdışı öncelikli PWA'lardan
+mobil uygulamalara kadar tek takıntım aynı: **yüksek performans, piksel piksel UX ve
+bilerek yazılmış gibi okunan kod.**
 
 ```js
 const firat = {
-    focus: ["clean architecture", "performance tuning", "delightful UX"],
+    focus: ["temiz mimari", "performans ayarı", "zevkli UX"],
     stack: ["Python", "JavaScript", "Kotlin"],
-    currentlyBuilding: "Neon Arcade — a PWA gaming universe",
-    motto: "Ship fast, polish forever. ⚡"
+    suAnkiProje: "Small Steps — sakin, çevrimdışı bir odak çalışma alanı",
+    motto: "Hızlı çıkar, sonsuza dek cilala. ⚡"
 };
 ```
 
@@ -21,7 +21,7 @@ const firat = {
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Teknoloji Yığını
 
 <div align="center">
 
@@ -38,21 +38,28 @@ const firat = {
 
 ---
 
-## 🎮 Featured Projects
+## ⭐ Öne Çıkan Proje
 
 <div align="center">
 
-| Project | What it is | Built with |
-|:---|:---|:---|
-| 🕹️ **[Neon Arcade](https://github.com/firatnexus/neon-arcade)** | A cyberpunk **PWA gaming platform** with 13 hand-crafted neon arcade games — zero dependencies, fully offline, installable on any device. [▶ Play it live](https://firatnexus.github.io/neon-arcade/) | `JavaScript` `PWA` `Web Audio` |
-| 🤖 **[JarvisTR](https://github.com/firatnexus/JarvisTR)** | A Turkish-speaking **voice assistant for Android** — Iron Man edition. "At your service." | `Kotlin` `Material 3` |
-| 🐦 **[OpenDroid](https://github.com/firatnexus/OpenDroid)** | An **open-source project** in its early days — big plans. Watch this space. | `Open Source` |
+### 🌱 [Small Steps](https://github.com/firatnexus/Small-Steps-)
+
+**Sakin, çevrimdışı çalışan bir odak çalışma alanı** — görev listesi + Pomodoro zamanlayıcı + ilerleme geçmişi.
+
+Sıfır bağımlılık · 12 dil · Kurulum yapılabilen PWA · Verileriniz tarayıcınızdan hiç çıkmaz
+
+[![Try It Online](https://img.shields.io/badge/%F0%9F%8C%90%20%C5%9Eimdi%20Dene-firatnexus.github.io-267354?style=for-the-badge)](https://firatnexus.github.io/Small-Steps-/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Small--Steps--181717?style=for-the-badge&logo=github)](https://github.com/firatnexus/Small-Steps-)
+
+`JavaScript` `PWA` `Service Worker` `Vanilla JS`
 
 </div>
 
+<sub>Daha büyük projelerim (sesli asistanlar, oyun platformları, Android ajanlar) şu an özel olarak geliştirme aşamasında.</sub>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
@@ -69,10 +76,10 @@ const firat = {
 
 <div align="center">
 
-### 🌐 Let's build something that glows
+### 🌐 Hadi birlikte parlayan bir şey inşa edelim
 
 [![Profile](https://img.shields.io/badge/GitHub-firatnexus-181717?style=flat-square&logo=github)](https://github.com/firatnexus)
 
-"Ship fast, polish forever." ⚡
+"Hızlı çıkar, sonsuza dek cilala." ⚡
 
 </div>
